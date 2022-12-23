@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @i-negm
+- 👀 I’m interested in Automotive Security, Linux, AUTOSAR, C, Python for tooling, CI/CD, ...etc.
+- 🌱 I’m currently Msc. Student in NU specializing in InfoSec.
+- 💞️ I’m looking to collaborate on Automotive cyber security papers.
+- 📫 How to reach me: i.g.negm@gmail.com
